@@ -5,7 +5,7 @@ import Grid from '@mui/material/Grid2'
 import DishTable from './components/DishTable'
 import Student from './components/Student'
 
-// PENDIENTE: Cree la interfaz
+// PENDIENTE: Cree la interfaz/
 import { type Dish } from './interface/Dish'
 
 
